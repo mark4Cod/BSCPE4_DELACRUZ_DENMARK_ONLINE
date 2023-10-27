@@ -1,0 +1,1 @@
+#October 27, 2023, Enhancing Cooling Efficiency: Thermoelectric Generator with OTA Integration
